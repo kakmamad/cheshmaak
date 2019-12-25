@@ -32,10 +32,8 @@
         <source-file src="src/CheshmakConfigReader.java" target-dir="src/me/cheshmak/cordova" />
 
         <framework src="src/build.gradle" custom="true" type="gradleReference" />
-		<framework src="com.google.android.gms:play-services-gcm:+"/>
-		<framework src="com.google.android.gms:play-services-base:+"/>
-		<framework src="com.google.android.gms:play-services-basement:+"/>
-		<framework src="com.android.support:support-v4:+" />
+        <framework src="com.google.firebase:firebase-messaging:17.3.4" />
+        <framework src="com.google.firebase:firebase-ads:17.1.3" />
 
 
 
