@@ -1,7 +1,4 @@
-dependencies {
-    implementation 'me.cheshmak:analytics:3.3.0'
 
-}
 repositories {
 jcenter()
   //Add Maven block to your repositories section
