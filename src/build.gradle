@@ -1,8 +1,1 @@
-
-repositories {
-jcenter()
-  //Add Maven block to your repositories section
-   maven {
-      url 'https://repository.cheshmak.me'
-   }
-}
+///
